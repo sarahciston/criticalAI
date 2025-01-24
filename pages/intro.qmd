@@ -1,0 +1,11 @@
+# Introduction
+
+This is a book created from markdown and executable code.
+
+See @knuth84 for additional discussion of literate programming.
+
+Really excited about pandoc and latex and all the things this does that I previously hand built for my dissertation. 
+
+Goal is not to get distracted and remake what I've already done but instead to write new things. 
+
+Erm... or...

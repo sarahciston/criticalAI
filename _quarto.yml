@@ -1,0 +1,34 @@
+project:
+  type: book
+
+book:
+  title: "A Critical Field Guide for Working with Generative AI Models"
+  author: 
+  - name: Sarah Ciston
+    degrees: PhD
+    orcid: 0000-0001-9456-9537
+    corresponding: true
+    email: ciston@usc.edu
+    roles: [conceptualization, methodology, investigation, data curation, analysis, writing]
+    affiliation:
+      - University of Southern California
+
+  date: last-modified
+  chapters:
+    - index.qmd
+    - pages/intro.qmd
+    - pages/summary.qmd
+    - pages/references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
